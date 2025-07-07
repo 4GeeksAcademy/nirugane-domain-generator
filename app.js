@@ -1,7 +1,7 @@
 let pronoun = ['the', 'our'];
 let adj = ['great', 'big'];
 let noun = ['jogger', 'racoon'];
-let extensions = ['.net', '.gov.', '.com'];
+let extensions = ['.net', '.gov', '.com'];
 
 for (let i = 0; i < pronoun.length; i++) {
     for (let j = 0; j < adj.length; j++) {
